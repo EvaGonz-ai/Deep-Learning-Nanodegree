@@ -1,4 +1,4 @@
-**Further reading
+Further reading
 
 Backpropagation is fundamental to deep learning. TensorFlow and other libraries will perform the backprop for you, but you should really really understand the algorithm. We'll be going over backprop again, but here are some extra resources for you:
 
