@@ -1,0 +1,36 @@
+Instructor
+Introduction
+Classification Problems 1
+Classification Problems 2
+Linear Boundaries
+Higher Dimensions
+Perceptrons
+Why "Neural Networks"?
+Perceptrons as Logical Operators
+Perceptron Trick
+Perceptron Algorithm
+Non-Linear Regions
+Error Functions
+Log-Loss Error Function
+Discrete vs Continuous
+Softmax
+One-Hot Encoding
+Maximum Likelihood
+Maximizing Probabilities
+Cross-Entropy 1
+Cross-Entropy 2
+Multi-class Cross Entropy
+Logistic Regression
+Gradient Descent
+Logistic Regression Algorithm
+Pre-Notebook Gradient Descent
+Notebook Gradient Descent
+Perceptron vs Gradient Descent
+Continuous Perceptrons
+Non-Linear Data
+Neural Network Architecture
+Feedforward
+Backpropagation
+Pre-Notebook Analyzing Students Data
+Notebook Analyzing Students Data
+Outro
