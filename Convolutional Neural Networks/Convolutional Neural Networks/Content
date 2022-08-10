@@ -1,1 +1,48 @@
-
+Introducing Alex
+Applications of CNNs
+Lesson Outline
+MNIST Dataset
+How Computers interpret Images
+MLP Structures & Class Scores
+Do your Research
+Loss & Optimization
+Defining a Network in PyTorch
+Training the Network
+Pre-Notebook: MLP Classification. Exercise
+Notebook: MLP Classification. MNIST
+One Solution
+Model Validation
+Validation Loss
+Image Classification Steps
+MLPs vs CNNs
+Local Connectivity
+Filters and the Convolutional Layer
+Filters & Edges
+Frequency in Images
+High-pass Filters
+Quiz: Kernels
+OpenCV & Creating Custom Filters
+Notebook: Finding Edges
+Convolutional Layer
+Convolutional Layer (Par 2)
+Stride and Padding
+Pooling Layers
+Notebook: Layer Visualization
+Capsule Networks
+Increasing Depht
+CNNs for Image Classification
+Convolutional Layers in PyTorch
+Feature Vector
+Pre-Notebook: CNN Classification
+Notebook: CNN for CIFAR Image Classification
+CIFAR Classification Example
+CNNs in PyTorch
+Image Augmentation
+Augmentation using Transformations
+Groundbreaking CNN Architectures
+Visualizing CNNs (Part 1)
+Visualizing CNNs (Part 2)
+Summary of CNNs
+Introduction to GPU Workspace
+Workspace Playground
+GPU Workspace Playground
